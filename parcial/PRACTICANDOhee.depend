@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1557735637 source:c:\users\cristiandmk\desktop\espacio de trabajo programacion utn\practicandohee\actores.c
+	"actores.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557735814 c:\users\cristiandmk\desktop\espacio de trabajo programacion utn\practicandohee\actores.h
+
+1557724530 source:c:\users\cristiandmk\desktop\espacio de trabajo programacion utn\practicandohee\genero.c
+	"genero.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557735637 c:\users\cristiandmk\desktop\espacio de trabajo programacion utn\practicandohee\genero.h
+
+1557736446 c:\users\cristiandmk\desktop\espacio de trabajo programacion utn\practicandohee\funciones.h
+	"genero.h"
+	"actores.h"
+
+1557738898 source:c:\users\cristiandmk\desktop\espacio de trabajo programacion utn\practicandohee\funciones.c
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+
+1557726133 source:c:\users\cristiandmk\desktop\espacio de trabajo programacion utn\practicandohee\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1557735638 source:f:\parcial\actores.c
+	"actores.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557735816 f:\parcial\actores.h
+
+1557724532 source:f:\parcial\genero.c
+	"genero.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557735638 f:\parcial\genero.h
+
+1557726134 source:f:\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1557757950 f:\parcial\funciones.h
+	"genero.h"
+	"actores.h"
+
+1557758232 source:f:\parcial\funciones.c
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+
+1557735638 source:e:\parcial\actores.c
+	"actores.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557735816 e:\parcial\actores.h
+
+1557724532 source:e:\parcial\genero.c
+	"genero.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557735638 e:\parcial\genero.h
+
+1557726134 source:e:\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1557757950 e:\parcial\funciones.h
+	"genero.h"
+	"actores.h"
+
+1557758232 source:e:\parcial\funciones.c
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+
